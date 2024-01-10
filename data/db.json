@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": true,
+      "item": "one"
+    },
+    {
+      "id": 2,
+      "checked": true,
+      "item": "two"
+    },
+    {
+      "id": 3,
+      "checked": true,
+      "item": "coffee"
+    },
+    {
+      "id": 4,
+      "checked": true,
+      "item": "sugar"
+    },
+    {
+      "id": 5,
+      "checked": true,
+      "item": "rice"
+    },
+    {
+      "id": 6,
+      "checked": true,
+      "item": "jaggery"
+    },
+    {
+      "id": 7,
+      "checked": true,
+      "item": "apple"
+    },
+    {
+      "id": 8,
+      "checked": true,
+      "item": "Grapes"
+    },
+    {
+      "id": 9,
+      "checked": false,
+      "item": "Bathing Soap"
+    }
+  ]
+}
